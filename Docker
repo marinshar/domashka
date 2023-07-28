@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <h1><p style="margin-bottom: 15px; color: rgb(51, 51, 51); font-family: AmazonEmber, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400;">В основе работы Docker лежит стандартизированный способ исполнения кода. Docker&nbsp;– это операционная система для контейнеров. Подобно тому как&nbsp;<a href="https://aws.amazon.com/ru/ec2/" style="color: rgb(9, 114, 211); outline-style: initial; outline-width: 0px; text-decoration-line: underline; text-underline-offset: 0.4rem;">виртуальная машина</a>&nbsp;создает виртуальное представление аппаратного обеспечения сервера&nbsp;(то есть устраняет необходимость непосредственно управлять таковым), контейнеры создают виртуальное представление серверной операционной системы. После установки на каждый сервер Docker предоставляет доступ к простым командам, необходимым для сборки, запуска или остановки контейнеров.</p><p style="margin-top: 15px; margin-bottom: 0px; padding-top: 5px; color: rgb(51, 51, 51); font-family: AmazonEmber, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400;">Такие сервисы AWS, как&nbsp;<a href="https://aws.amazon.com/ru/fargate/" style="color: rgb(9, 114, 211); outline-style: initial; outline-width: 0px; text-decoration-line: underline; text-underline-offset: 0.4rem;">AWS Fargate</a>,&nbsp;<a href="https://aws.amazon.com/ru/ecs/" style="color: rgb(9, 114, 211); outline-style: initial; outline-width: 0px; text-decoration-line: underline; text-underline-offset: 0.4rem;">Amazon ECS</a>,&nbsp;<a href="https://aws.amazon.com/ru/eks/" style="color: rgb(9, 114, 211); outline-style: initial; outline-width: 0px; text-decoration-line: underline; text-underline-offset: 0.4rem;">Amazon EKS</a>&nbsp;и&nbsp;<a href="https://aws.amazon.com/ru/batch/" style="color: rgb(9, 114, 211); outline-style: initial; outline-width: 0px; text-decoration-line: underline; text-underline-offset: 0.4rem;">AWS Batch</a>, упрощают работу с контейнерами Docker, а также управление ими в любом масштабе.</p></h1>
+</body>
+</html>
